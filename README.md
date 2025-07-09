@@ -5,6 +5,6 @@ Nairobi Ninja is a one-player, 2D platformer game that will be able to be played
 The game is an adventurous and thrilling process taking players through levels that are Kenyan based, where they encounter a number of challenging enemies and obstacles.
 
 ## Languages used:
-<code><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></code>
+<code><img src="https://icons8.com/icon/40669/c%2B%2B"/></code>
 #
 
