@@ -27,20 +27,6 @@ Unity 2D Engine
 ⚠️ The project was originally developed using Unity 2017.2.0f3.
 Using this version (or a close 2017.x version) is recommended to avoid compatibility issues.
 
-📦 Project Structure
-Nairobi-Ninja/
-│
-├── Assets/
-│   ├── Scenes/
-│   │   ├── MainMenu.unity
-│   │   └── Gameplay.unity
-│   ├── Scripts/
-│   └── ...
-│
-├── ProjectSettings/
-├── Packages/
-└── README.md
-
 MainMenu.unity – Main menu scene
 
 Gameplay.unity – Core gameplay scene
@@ -48,6 +34,7 @@ Gameplay.unity – Core gameplay scene
 Scripts/ – Player, enemy, camera, and helper logic
 
 🚀 How to Run the Project
+
 1️⃣ Install Unity
 
 Download and install:
@@ -125,4 +112,3 @@ This project is for educational and portfolio purposes.
 👤 Author
 
 Mike Mutaki
-GitHub: https://github.com/mkmutaki
